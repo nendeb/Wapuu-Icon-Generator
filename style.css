@@ -1,0 +1,81 @@
+/*
+ * わぷーアイコンジェネレーター
+*/
+
+.content {
+    padding: 1em;
+}
+
+#wapu_icon .canvas {
+    float: left;
+    margin-right: 30px;
+    width: 300px;
+}
+#wapu_icon .canvas2 {
+    float: left;
+    margin-top: 50px;
+}
+#wapu_icon .canvashelp {
+    clear: both;
+    padding-top: 2em;
+    margin: 0 0 0 50px;
+}
+#wapu_icon .canvas-container {
+    margin: 0 0 6px;
+}
+#wapu_icon #wapu_canvas {
+    height: 300px;
+    width: 300px;
+}
+#wapu_icon #newImg {
+    border: 1px solid #999999;
+    height: 200px;
+    margin: 0 0 6px;
+    width: 200px;
+}
+#wapu_icon canvas#wapu_canvas2 {
+    display: none;
+}
+#wapu_icon input.upload[type="file"] {
+    display: block;
+    font-size: 100%;
+    height: 1.5em;
+    line-height: 1;
+    width: 200px;
+}
+#wapu_icon .upload, .btn {
+    margin-bottom: 1em;
+}
+#wapu_icon .upload {
+    font-size: 14px;
+}
+#wapu_icon .btn-clear, #wapu_icon .btn-newimage, #wapu_icon .btn-primary {
+    background: none repeat scroll 0 0 #1CB841;
+    border: medium none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    margin: 7px 0 0 50px;
+    padding: 0.8em;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    width: 200px;
+}
+#wapu_icon .btn-newimage {
+    background: none repeat scroll 0 0 #FF8800;
+    margin: 45px 0 0;
+    width: 100%;
+}
+#wapu_icon .btn-clear {
+    background: none repeat scroll 0 0 #42B8DD;
+    margin: 7px 0 0 50px;
+    padding: 0.8em 0.7em;
+    width: 100px;
+}
+#wapu_icon .btn-clear:hover, #wapu_icon .btn-newimage:hover, #wapu_icon .btn-primary:hover {
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15) inset, 0 0 6px rgba(0, 0, 0, 0.2) inset;
+    opacity: 0.9;
+}
+
+
+/*  */
