@@ -1,28 +1,29 @@
-わぷーアイコンジェネレーター
+Wapuu Icon Generator
 =============================
 
-Twitter等のアイコンに「わぷー（Wapuu)」を追加できるジェネレーターです。
+
+You can make your own Wapuu icon for Twitter etc.
 
 
-### ジェネレーターのご利用方法
-①アイコンにする元画像をアップロードしてください。  
-②元画像とわぷー画像が重なって表示されますので各画像を移動して、あわせください。　(それぞれの画像をクリックすると変更できるようになります。)  
-③完成したら[画像生成]ボタンを押してください。  
-④完成画像を右クリックして「名前を付けて画像を保存」で保存してください。  
-  
-※画像をアップロードから、やり直す場合は[リセット]ボタンを押してください。  
-※ブラウザ上で画像を操作、生成しますのでサーバーには画像を送信しません。  
-※このサービスによる成果物のライセンスはGPLv2です。
+### How to use
+1. Push the upload button and choose the image which you want to use.
+2. Your image and a Wapuu's one will be overlapped. Select the image which you want to move and drag it and fix the position.
+3. Once you fix the position, click the generate image button.
+4. Save the image with the right click.
+
+* You can re-start to upload image by the reset button.
+* It works on your browser so it doesn't send your image to our server.
+* The result from this generator should be GPLv2.
   
 
-### 関連情報
-Fabric.js <http://fabricjs.com/>  
- * HTML5の Canvas要素 を使いやすくしてくれる JavaScriptライブラリ です。  
+### Related information
+Fabric.js <http://fabricjs.com/>
+* the JavaScript library that makes it easy to use Canvas tag in HTML5.   
   
-わぷー（Wapuu) <http://ja.wordpress.org/about-wp-ja/wapuu/>  
- * ja.wordpress.org の公式キャラクターです。
+Wapuu <http://ja.wordpress.org/about-wp-ja/wapuu/>  
+* Official mascot of ja.wordpress.org
   
 
-### ライセンス
-GPL バージョン2 またはそれ以降の互換ライセンスとなります  
-わぷー(Wapuu)の著作権は、キャラクター作成者のカネウチカズコさんが保有します。  
+### License
+This software is licensed under GNU General Public License v2 or later.
+Wappu's copyright is reserved by Kazuko Kaneuchi.
